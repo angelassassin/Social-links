@@ -24,6 +24,9 @@
 !index.html
 !README.md
 !styles.css
+!desktop_solution.jpg
+!mobile_solution.jpg
+
 
 
 # Whitelist the 'images' folder and its contents recursively:
